@@ -6,7 +6,7 @@ To submit an issue, click the "Issues" tab above.
 
 Bugs always have top priority. I prioritise new features roughly according to popularity and the amount of effort required (I don't want complicated features to block easier things).
 
-These are the current (March 7 2017) top ten feature requests:
+These are the current (March 28 2017) top ten feature requests:
 
  1. [Autocomplete on Query View (tables and fields)](https://github.com/jakob/Postico/issues/52) (66 reactions)
  2. [Add support for editing functions (stored procedures)](https://github.com/jakob/Postico/issues/72) (21 reactions)
