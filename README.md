@@ -6,18 +6,18 @@ To submit an issue, click the "Issues" tab above.
 
 Bugs always have top priority. I prioritise new features roughly according to popularity and the amount of effort required (I don't want complicated features to block easier things).
 
-These are the current (Sep 2018) top ten feature requests:
+These are the current (Oct 2019) top ten feature requests:
 
- 1. [Add support for editing functions (stored procedures)](https://github.com/jakob/Postico/issues/72) (180 reactions)
+ 1. [Add support for editing functions (stored procedures)](https://github.com/jakob/Postico/issues/72) (181 reactions)
  2. [JSON viewer for working with JSON/JSONB columns](https://github.com/jakob/Postico/issues/395) (124 reactions)
  3. [Feature request: query formatting](https://github.com/jakob/Postico/issues/155) (103 reactions)
+ 4. [`IN` as a filter option](https://github.com/jakob/Postico/issues/144) (58 reactions)
  4. [Auto-Uppercase SQL Keywords](https://github.com/jakob/Postico/issues/271) (58 reactions)
- 5. [`IN` as a filter option](https://github.com/jakob/Postico/issues/144) (57 reactions)
  6. [Editable Results in the SQL Query View](https://github.com/jakob/Postico/issues/188) (35 reactions)
  7. [show triggers?](https://github.com/jakob/Postico/issues/252) (34 reactions)
- 8. [Reverse engineering Entity-Relationship diagram from database feature](https://github.com/jakob/Postico/issues/238) (31 reactions)
+ 8. [Reverse engineering Entity-Relationship diagram from database feature](https://github.com/jakob/Postico/issues/238) (32 reactions)
  9. [AWS IAM support for logging in](https://github.com/jakob/Postico/issues/377) (24 reactions)
- 10. [ability to organize favorites?](https://github.com/jakob/Postico/issues/209) (16 reactions)
+ 9. [Export using SQL insert](https://github.com/jakob/Postico/issues/36) (24 reactions)
 
 You can also view the [full list of issues sorted by popularity](https://github.com/jakob/Postico/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
