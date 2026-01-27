@@ -17,13 +17,13 @@ There is no timeline for Postico. I generally work on features that I consider u
 
 I have a tendency to overthink things. Simple features often take me weeks or months to finish. In the long run, I don't think it matters. I have been working on Postico for more than a decade, and will probably continue to do so for the next two decades. On that timescale, it doesn't really make a big difference if a feature is implemented next week or next year.
 
-But I understand that for you, my customer, it does make a big difference if a feature is implemented next week or next year. For this reason, please buy a Postico license only if it is useful for you *today*.
+But I understand that for you, as someone who works with Postico, timing does matter. For this reason, please buy a Postico license only if it is useful for you *today*.
 
 
 ## Other ways to contact me
 
-Postico 2 has a feedback button in the toolbar. Use it to send bug reports and feature requests! You can also use it to send anonymous feedback.
+Postico 2 has a feedback button in the toolbar. Use it to send bug reports and feature requests! You can also use the feedback button to send anonymous feedback.
 
 You can of course always use old fashioned email: jakob@eggerapps.at
 
-I try to personally respond to most messages, but sometimes I am busy and forget to reply. Please keep emailing me anyway, I can't solve problems I don't know about.
+I try to personally respond to most messages, but sometimes I am busy and forget to reply. Please keep emailing me anyway! I always love to hear from people using my app, even when I am too busy to reply.
